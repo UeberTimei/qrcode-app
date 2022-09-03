@@ -6,5 +6,4 @@ It's allows you to create QR codes and then you can just scan it or you can down
 
 Then you can for exapmle print it.
 
-You can check this here ↓
-https://qrcode-app-six.vercel.app/
+You can check this here → https://qrcode-app-six.vercel.app/
